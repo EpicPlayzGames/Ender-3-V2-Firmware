@@ -1,9 +1,3 @@
-## EDITOR NOTES
-
-I do not take claim for the full creation of this firmware. All original unmodified source code can be found at https://github.com/mriscoc/Ender3V2S1. This is my modified version for my Ender 3 v2 w/TJC using bugfix 2.1.x.
-
-------
-
 # Professional Firmware for the Creality Ender 3 V2/S1 Printers
 
 ![GitHub contributors](https://img.shields.io/github/contributors/mriscoc/Ender3V2S1.svg)
